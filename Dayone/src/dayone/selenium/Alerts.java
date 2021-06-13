@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Alerts {
 	
 	/*author : Jeganathan B */
-	/* Date: June 13 */
+	/* Date: June 13-2021 */
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
