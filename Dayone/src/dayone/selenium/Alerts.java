@@ -7,6 +7,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Alerts {
+	
+	/*author : Jeganathan B */
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
